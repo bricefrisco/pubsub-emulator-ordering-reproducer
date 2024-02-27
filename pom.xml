@@ -18,8 +18,8 @@
         <dependency>
             <groupId>com.google.cloud</groupId>
             <artifactId>google-cloud-pubsub</artifactId>
-            <!--Emulator message versioning not work with this version -->
-            <version>1.126.0</version>
+            <!--Emulator message versioning does not work with this version -->
+            <version>1.126.6</version>
             <!--But works with this version-->
 <!--            <version>1.125.13</version>-->
         </dependency>
